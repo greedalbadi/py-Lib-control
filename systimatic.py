@@ -9,7 +9,7 @@ import json
 
 class _data:
 
-    file = "data.json"
+    file = "./data.json"
 
 
 
